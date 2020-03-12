@@ -8,7 +8,7 @@ pkg install curl
 
 pkg install git
 
-git clone https://github.com/cybermod01/cymod
+git clone https://github.com/cybermod01/cybermod.git
 
 termux-setup-storage
 
